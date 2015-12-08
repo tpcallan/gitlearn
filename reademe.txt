@@ -1,2 +1,2 @@
-Pony is learning Git.
+Pony is learning Git. Git is a distrubuted version control system.
 Git is a free software.
